@@ -1,0 +1,7 @@
+{
+    "braindate": {
+        "loginpage": "https://api.staging.braindate.com/accounts/login/welcome/?next=/accounts/email/",
+        "password_reset_succcessful": "https://api.staging.braindate.com/accounts/password/reset/done/",
+        "password_reset_page" : "https://api.staging.braindate.com/accounts/password/reset/"
+    }
+}
